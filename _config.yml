@@ -110,8 +110,8 @@ workshop_site: "https://carpentries.github.io/workshop-template"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
-pre_survey: "https://docs.google.com/forms/d/e/1FAIpQLSeunkiFYCRC9orcZ4XmIZ8Mb-Q-yUCn5GW51bpP-bhbbZWT7Q/viewform?usp=sf_link"
-post_survey: "https://docs.google.com/forms/d/e/1FAIpQLSeRz1QvvZiO4xb0ydh_pzJ9h9KRhAbjAXTQAN0u206dPFutWw/viewform?usp=sf_link"
+pre_survey: "https://docs.google.com/forms/d/e/1FAIpQLSf0OwesPn1974SDPkZKQwoE1c3TvALw9Uq5pjJAlQcLb8BlLA/viewform?usp=sf_link"
+post_survey: "https://docs.google.com/forms/d/e/1FAIpQLScQX7ww6tE-9pT5NOUStCZkLFlJIGrsOuegUePyAwsnqLK_nw/viewform?usp=sf_link"
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
