@@ -343,8 +343,8 @@ in `_config.yml` or, if this workshop is teaching a lesson in the Incubator,
 change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeunkiFYCRC9orcZ4XmIZ8Mb-Q-yUCn5GW51bpP-bhbbZWT7Q/viewform?usp=sf_link">Pre-workshop Survey</a></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeRz1QvvZiO4xb0ydh_pzJ9h9KRhAbjAXTQAN0u206dPFutWw/viewform?usp=sf_link">Post-workshop Survey</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf0OwesPn1974SDPkZKQwoE1c3TvALw9Uq5pjJAlQcLb8BlLA/viewform?usp=sf_link">Pre-workshop Survey</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScQX7ww6tE-9pT5NOUStCZkLFlJIGrsOuegUePyAwsnqLK_nw/viewform?usp=sf_link">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
